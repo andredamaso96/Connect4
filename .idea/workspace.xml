@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5e7f39e-e209-4dc1-951c-8b1703fb8399" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zqz2GCuMKoToz4aaxQA5hRgHr4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PO2 2020/15307_AndréDâmaso_TP01_PO2_2019-2020" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pt.ipbeja.po2.connectfour" />
+      <recent name="pt.ipbeja.po2.connectfour.gui" />
+      <recent name="pt.ipbeja.po2.connectfour.model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Start">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.ipbeja.po2.connectfour.gui.Start" />
+      <module name="tp1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipbeja.po2.connectfour.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConnectFourModelTest.test05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipbeja.po2.connectfour.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.ipbeja.po2.connectfour.model" />
+      <option name="MAIN_CLASS_NAME" value="pt.ipbeja.po2.connectfour.model.ConnectFourModelTest" />
+      <option name="METHOD_NAME" value="test05" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConnectFourModelTest.test07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipbeja.po2.connectfour.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.ipbeja.po2.connectfour.model" />
+      <option name="MAIN_CLASS_NAME" value="pt.ipbeja.po2.connectfour.model.ConnectFourModelTest" />
+      <option name="METHOD_NAME" value="test07" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConnectFourModelTest.test08" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipbeja.po2.connectfour.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.ipbeja.po2.connectfour.model" />
+      <option name="MAIN_CLASS_NAME" value="pt.ipbeja.po2.connectfour.model.ConnectFourModelTest" />
+      <option name="METHOD_NAME" value="test08" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConnectFourModelTest.test09" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipbeja.po2.connectfour.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.ipbeja.po2.connectfour.model" />
+      <option name="MAIN_CLASS_NAME" value="pt.ipbeja.po2.connectfour.model.ConnectFourModelTest" />
+      <option name="METHOD_NAME" value="test09" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Start" />
+      <item itemvalue="JUnit.ConnectFourModelTest.test05" />
+      <item itemvalue="JUnit.ConnectFourModelTest.test07" />
+      <item itemvalue="JUnit.ConnectFourModelTest.test08" />
+      <item itemvalue="JUnit.ConnectFourModelTest.test09" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Start" />
+        <item itemvalue="JUnit.ConnectFourModelTest.test09" />
+        <item itemvalue="JUnit.ConnectFourModelTest.test08" />
+        <item itemvalue="JUnit.ConnectFourModelTest.test07" />
+        <item itemvalue="JUnit.ConnectFourModelTest.test05" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5e7f39e-e209-4dc1-951c-8b1703fb8399" name="Default" comment="" />
+      <created>1556027482416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556027482416</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ConnectFourModelTest_test07 - 2019.05.06 at 19h 47m 29s.xml">
+      <configuration name="ConnectFourModelTest.test07" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConnectFourModelTest_test08 - 2019.05.06 at 19h 54m 42s.xml">
+      <configuration name="ConnectFourModelTest.test08" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConnectFourModelTest_test08 - 2019.05.06 at 20h 00m 24s.xml">
+      <configuration name="ConnectFourModelTest.test08" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConnectFourModelTest_test09 - 2019.05.06 at 22h 55m 25s.xml">
+      <configuration name="ConnectFourModelTest.test09" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConnectFourModelTest_test09 - 2019.05.06 at 22h 56m 00s.xml">
+      <configuration name="ConnectFourModelTest.test09" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConnectFourModelTest_test09 - 2019.05.06 at 22h 57m 19s.xml">
+      <configuration name="ConnectFourModelTest.test09" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConnectFourModelTest_test09 - 2019.05.06 at 23h 01m 48s.xml">
+      <configuration name="ConnectFourModelTest.test09" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConnectFourModelTest_test09 - 2019.05.06 at 23h 02m 02s.xml">
+      <configuration name="ConnectFourModelTest.test09" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConnectFourModelTest_test09 - 2019.05.06 at 23h 02m 36s.xml">
+      <configuration name="ConnectFourModelTest.test09" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConnectFourModelTest_test09 - 2019.05.06 at 23h 02m 47s.xml">
+      <configuration name="ConnectFourModelTest.test09" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="490" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585581208161">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="490" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680/-1280.52.1280.984@0.0.1280.680" timestamp="1585581208161" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1593620294674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-822" y="251" key="FileChooserDialogImpl/0.0.1536.824/-1280.52.1280.984@-1280.52.1280.984" timestamp="1588084763212" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593620294674" />
+    <state width="1493" height="178" key="GridCell.Tab.0.bottom" timestamp="1589744538466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="138" key="GridCell.Tab.0.bottom/0.0.1280.680/-1280.52.1280.984@0.0.1280.680" timestamp="1585581385689" />
+    <state width="1493" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589744538466" />
+    <state width="1493" height="178" key="GridCell.Tab.0.center" timestamp="1589744538466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="138" key="GridCell.Tab.0.center/0.0.1280.680/-1280.52.1280.984@0.0.1280.680" timestamp="1585581385689" />
+    <state width="1493" height="178" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589744538466" />
+    <state width="1493" height="178" key="GridCell.Tab.0.left" timestamp="1589744538466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="138" key="GridCell.Tab.0.left/0.0.1280.680/-1280.52.1280.984@0.0.1280.680" timestamp="1585581385689" />
+    <state width="1493" height="178" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589744538466" />
+    <state width="1493" height="178" key="GridCell.Tab.0.right" timestamp="1589744538466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="138" key="GridCell.Tab.0.right/0.0.1280.680/-1280.52.1280.984@0.0.1280.680" timestamp="1585581385689" />
+    <state width="1493" height="178" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589744538466" />
+    <state x="465" y="236" width="505" height="293" key="com.intellij.ide.util.TipDialog" timestamp="1588433662009">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="388" y="197" width="505" height="293" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1280.52.1280.984@0.0.1536.824" timestamp="1588075613161" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588433662009" />
+    <state x="376" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585581246612">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="376" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680/-1280.52.1280.984@0.0.1280.680" timestamp="1585581246612" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/pt/ipbeja/po2/connectfour/model/ConnectFourModelTest.java</url>
+          <line>140</line>
+          <properties class="pt.ipbeja.po2.connectfour.model.ConnectFourModelTest" method="test08">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
